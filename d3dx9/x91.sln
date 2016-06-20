@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "d3dx9", "d3d透視正式.vcxproj", "{FC4E01F5-D242-4DA6-A01E-3C8BAD7DA583}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "x91", "..\d3dc9\game.vcxproj", "{69AC38CC-6FD2-441C-9D16-661158BEC064}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC4E01F5-D242-4DA6-A01E-3C8BAD7DA583}.Debug|x86.ActiveCfg = Debug|Win32
+		{FC4E01F5-D242-4DA6-A01E-3C8BAD7DA583}.Debug|x86.Build.0 = Debug|Win32
+		{FC4E01F5-D242-4DA6-A01E-3C8BAD7DA583}.Release|x86.ActiveCfg = Release|Win32
+		{FC4E01F5-D242-4DA6-A01E-3C8BAD7DA583}.Release|x86.Build.0 = Release|Win32
+		{69AC38CC-6FD2-441C-9D16-661158BEC064}.Debug|x86.ActiveCfg = Debug|Win32
+		{69AC38CC-6FD2-441C-9D16-661158BEC064}.Debug|x86.Build.0 = Debug|Win32
+		{69AC38CC-6FD2-441C-9D16-661158BEC064}.Release|x86.ActiveCfg = Release|Win32
+		{69AC38CC-6FD2-441C-9D16-661158BEC064}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
